@@ -5,5 +5,5 @@
 // Generated on: 2013.02.28 at 12:13:11 PM EST 
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://ns.electronichealth.net.au/xsp/xsd/SignedPayload/2010", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+@jakarta.xml.bind.annotation.XmlSchema(namespace = "http://ns.electronichealth.net.au/xsp/xsd/SignedPayload/2010", elementFormDefault = jakarta.xml.bind.annotation.XmlNsForm.QUALIFIED)
 package au.net.electronichealth.ns.xsp.xsd.signedpayload._2010;

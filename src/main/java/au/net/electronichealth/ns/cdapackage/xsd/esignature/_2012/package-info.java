@@ -5,5 +5,5 @@
 // Generated on: 2013.02.28 at 12:13:11 PM EST 
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://ns.electronichealth.net.au/cdaPackage/xsd/eSignature/2012", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+@jakarta.xml.bind.annotation.XmlSchema(namespace = "http://ns.electronichealth.net.au/cdaPackage/xsd/eSignature/2012", elementFormDefault = jakarta.xml.bind.annotation.XmlNsForm.QUALIFIED)
 package au.net.electronichealth.ns.cdapackage.xsd.esignature._2012;
